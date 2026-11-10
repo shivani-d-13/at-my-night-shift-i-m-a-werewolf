@@ -1,0 +1,10 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# macOS generated files
+.DS_Store
+
+# Godot export configuration (may contain local settings)
+export.cfg
+export_presets.cfg
